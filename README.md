@@ -1,6 +1,9 @@
+![Logo PHP](public/images/logoPhp.png)
+
+
 # Nom du Projet
 
-Une brève description de ce que fait le projet et de son objectif principal.
+Gourmandise Intranet est une application web conçue pour gérer les opérations internes d'une entreprise de distribution alimentaire. Elle permet aux utilisateurs de gérer les clients, les produits, les commandes et d'assurer une authentification sécurisée pour accéder aux différentes fonctionnalités de l'application.
 
 ## Table des Matières
 
@@ -29,6 +32,10 @@ Une brève description de ce que fait le projet et de son objectif principal.
 ### Historique des Commandes
 - **Liste des Historiques** : Affiche toutes les commandes passées avec des options pour consulter ou modifier chaque commande.
 - **Détails de la Commande** : Permet de consulter les informations détaillées d'une commande spécifique.
+
+## Lien du Projet
+
+Accédez à l'application en ligne : [Gourmandise Intranet](https://gourmandiseintranet.bdessis.v70208.campus-centre.fr/)
 
 ## Installation
 
@@ -62,9 +69,9 @@ Instructions sur la façon d'utiliser le projet :
 Si vous souhaitez contribuer au projet, veuillez suivre ces étapes :
 
 1. Forkez le projet.
-2. Créez une nouvelle branche (`git checkout -b feature/YourFeature`).
-3. Apportez vos modifications et validez-les (`git commit -m 'Add some feature'`).
-4. Poussez vers la branche (`git push origin feature/YourFeature`).
+2. Créez une nouvelle branche (`git checkout -b feature/votreBranche`).
+3. Apportez vos modifications et validez-les (`git commit -m 'feat: nouveauté'`).
+4. Poussez vers la branche (`git push origin feature/votreBranche`).
 5. Ouvrez une Pull Request.
 
 ## Licence
